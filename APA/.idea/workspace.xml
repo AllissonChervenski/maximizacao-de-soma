@@ -18,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TRQfPp6UCFKM0IAdgy4EkrfU32" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -39,7 +43,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.permutacao">
+    <configuration name="greedy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy" />
+      <module name="APA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="permutacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="permutacao" />
       <module name="APA" />
@@ -50,6 +61,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.permutacao" />
+        <item itemvalue="Application.greedy" />
       </list>
     </recent_temporary>
   </component>
@@ -72,11 +84,29 @@
       <workItem from="1573936820322" duration="16681000" />
       <workItem from="1574006328748" duration="141000" />
       <workItem from="1574033632786" duration="296000" />
+      <workItem from="1574034093886" duration="1475000" />
+      <workItem from="1574102139668" duration="1197000" />
+      <workItem from="1574113124855" duration="8927000" />
+      <workItem from="1574149373838" duration="609000" />
+      <workItem from="1574209491286" duration="5060000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
