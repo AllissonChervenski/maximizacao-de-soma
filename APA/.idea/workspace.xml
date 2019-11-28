@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8963e97-d7d3-40e8-a22d-d5913a20911f" name="Default Changelist" comment="" />
+    <list default="true" id="c8963e97-d7d3-40e8-a22d-d5913a20911f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/APA/src/forcaBruta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APA/out/production/APA/greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/APA/out/production/APA/greedy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APA/out/production/APA/permutacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APA/src/greedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/APA/src/greedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APA/src/permutacao.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -43,7 +51,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.permutacao">
+  <component name="RunManager" selected="Application.forcaBruta">
+    <configuration name="forcaBruta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forcaBruta" />
+      <module name="APA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="greedy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greedy" />
       <module name="APA" />
@@ -60,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.forcaBruta" />
         <item itemvalue="Application.permutacao" />
         <item itemvalue="Application.greedy" />
       </list>
@@ -88,7 +104,14 @@
       <workItem from="1574102139668" duration="1197000" />
       <workItem from="1574113124855" duration="8927000" />
       <workItem from="1574149373838" duration="609000" />
-      <workItem from="1574209491286" duration="5060000" />
+      <workItem from="1574209491286" duration="6144000" />
+      <workItem from="1574284153165" duration="2751000" />
+      <workItem from="1574375192288" duration="773000" />
+      <workItem from="1574376885382" duration="62000" />
+      <workItem from="1574727367169" duration="3960000" />
+      <workItem from="1574753767736" duration="1593000" />
+      <workItem from="1574832408204" duration="657000" />
+      <workItem from="1574942810934" duration="837000" />
     </task>
     <servers />
   </component>
